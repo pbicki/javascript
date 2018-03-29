@@ -1,0 +1,2 @@
+# javascript
+pierwsze kroki
